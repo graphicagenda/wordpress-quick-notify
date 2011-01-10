@@ -1,8 +1,8 @@
 <?php
 /**
-* Plugin Name: Graphic Agenda December Announcement
+* Plugin Name: Admin Announcement
 * Plugin URI: http://www.graphicagenda.com
-* Description: Let your admin bloggers know you've received payment in December 2010
+* Description: Let your admin bloggers receive a single message
 * Version: 12.7.2010
 *
 * Author: Graphic Agenda
